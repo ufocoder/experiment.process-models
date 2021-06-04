@@ -32,3 +32,5 @@ tab: c.test
 
 ![Windows and tabs](./image.jpg)
 
+Run Google Chrome with [specified flag](https://www.chromium.org/developers/design-documents/process-models#Supported_Models) then open task manager to check processes
+
