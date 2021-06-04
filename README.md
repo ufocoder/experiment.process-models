@@ -34,3 +34,8 @@ tab: c.test
 
 Run Google Chrome with [specified flag](https://www.chromium.org/developers/design-documents/process-models#Supported_Models) then open task manager to check processes
 
+
+Experiments:
+
+* http://a.test/frame.html
+* http://a.test/frame-link.html
